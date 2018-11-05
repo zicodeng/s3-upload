@@ -1,0 +1,22 @@
+{
+  "name": "s3-upload",
+  "version": "1.0.0",
+  "description": "A simple Node module for uploading dist folder to AWS S3.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zicodeng/s3-upload.git"
+  },
+  "author": "Zico Deng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zicodeng/s3-upload/issues"
+  },
+  "homepage": "https://github.com/zicodeng/s3-upload#readme",
+  "devDependencies": {
+    "aws-sdk": "^2.348.0"
+  }
+}

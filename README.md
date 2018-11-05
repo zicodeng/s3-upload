@@ -1,2 +1,3 @@
-# s3-upload
-A simple Node module for uploading a specified folder to AWS S3.
+# S3 Upload
+
+A simple Node module for uploading `dist` folder to AWS S3.
